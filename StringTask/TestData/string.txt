@@ -1,0 +1,4 @@
+Strings, which are widely used in Java programming, are a sequence of characters.
+In Java programming language, strings are treated as objects.
+
+The Java platform provides the String class to create and manipulate strings.
